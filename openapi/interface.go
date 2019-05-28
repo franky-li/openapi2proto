@@ -1,7 +1,7 @@
 package openapi
 
 import (
-	"github.com/NYTimes/openapi2proto/internal/option"
+	"github.com/franky-li/openapi2proto/internal/option"
 )
 
 const (

@@ -1,4 +1,4 @@
-package option // github.com/NYTimes/openapi2proto/internal/option
+package option // github.com/franky-li/openapi2proto/internal/option
 
 type Option interface {
 	Name() string

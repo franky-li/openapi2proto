@@ -1,10 +1,10 @@
 package compiler
 
 import (
-	"github.com/NYTimes/openapi2proto/internal/option"
+	"github.com/franky-li/openapi2proto/internal/option"
 
-	"github.com/NYTimes/openapi2proto/openapi"
-	"github.com/NYTimes/openapi2proto/protobuf"
+	"github.com/franky-li/openapi2proto/openapi"
+	"github.com/franky-li/openapi2proto/protobuf"
 )
 
 const (
